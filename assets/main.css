@@ -4,3 +4,40 @@ Main CSS File for Excursion Project | A Code Academy Project
 Tahseen Chowdhury
 www.tahseenchowdhury.com
 */
+
+/* For ALL */
+* {
+    text-align: center;
+    font-family: Verdana;
+    background-color: black;
+}
+
+/* Header */
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* Body */
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+}
+
+/* Footer */
+footer h3 {
+    text-align: right;
+}
